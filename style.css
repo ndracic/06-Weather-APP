@@ -1,0 +1,31 @@
+main {
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+body {
+    background-color: wheat
+}
+.card {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-evenly;
+    margin: 4px;
+    border: 5px;
+}
+.search {
+    display: block;
+    border: solid 4px ;
+}
+.current-weather {
+    display: flex;
+}
+
+.uvii {
+    background-color: rgba(0, 128, 0, 0.676);
+    color: white;
+    display: none;
+    
+}
